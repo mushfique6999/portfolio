@@ -43,7 +43,7 @@ function Navbar() {
               href="#projects"
               className="text-sm text-gray-800 dark:text-white hover:text-blue-500 dark:hover:text-blue-400"
             >
-              Projects
+              Products
             </a>
           </li>
           <li>
