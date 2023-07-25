@@ -1,6 +1,6 @@
 // About.js
 import React from "react";
-import profile from "./me.jfif";
+import profile from "./feroz.enc";
 
 function About() {
   return (
